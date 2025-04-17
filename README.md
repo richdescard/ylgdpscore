@@ -21,6 +21,7 @@ Required version of PHP: 7.0+ (tested up to 8.3)
 ### Credits
 ## YLGDPSC Credits
 basically all of the code - Cursor AI & Trae AI
+
 core base - megasa1nt
 
 ## Original Credits
