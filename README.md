@@ -1,8 +1,8 @@
-# GMDprivateServer
-## Geometry Dash Private Server
-Basically a Geometry Dash Server Emulator
+# YLGDPSC
+## Your Local GDPS Core
+Basically a Geometry Dash Server Emulator (but ai)
 
-Supported version of Geometry Dash: 1.0 - 2.207
+Supported versions of Geometry Dash: 1.0 - 2.207 (hopefully, no promises)
 
 (See [the backwards compatibility section of this article](https://github.com/Cvolton/GMDprivateServer/wiki/Deliberate-differences-from-real-GD) for more information)
 
@@ -19,6 +19,11 @@ Required version of PHP: 7.0+ (tested up to 8.3)
 3) Run main dashboard's page
 
 ### Credits
+## YLGDPSC Credits
+basically all of the code - Cursor AI & Trae AI
+core base - megasa1nt
+
+## Original Credits
 Base for account settings and the private messaging system by someguy28
 
 XOR encryption — https://github.com/sathoro/php-xor-cipher — (incl/lib/XORCipher.php)
